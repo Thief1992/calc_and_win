@@ -1,5 +1,5 @@
 from random import randint
-
+from random import iniform
 
 def set_enemy_health():
     return randint(80, 120)
